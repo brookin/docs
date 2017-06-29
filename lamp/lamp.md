@@ -1,7 +1,7 @@
 LAMP 环境编译
 
-date:2015/8/19 12:50:53
-date:2017/6/29 支持PHP7.1.6
+- date:2015/8/19 12:50:53
+- date:2017/6/29 支持PHP7.1.6
 
 ## apache
 
@@ -11,7 +11,7 @@ date:2017/6/29 支持PHP7.1.6
 
 ## php
 
-	编译php
+编译选项
 
 	./configure \
 	--prefix=/usr/local/services/php-7.1.6 \
